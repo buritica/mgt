@@ -2,7 +2,7 @@
 
 Usa esta guía de preguntas para establecer una nueva relación con un miembro de tu equipo. Te ayudará a establecer un puente, y a aprender sobre sus expectativas.
 
-Siempre que empiezo una relación nueva con un miembro de mi equipo, inicio un documento nuevo para cada uno de mis reportes y les una serie de preguntas para aprender a conocerlos mejor, sentar espectativas en nuestra relación y empezar a generar confianza.
+Siempre que empiezo una relación nueva con un miembro de mi equipo, inicio un documento nuevo para cada uno de mis reportes y les doy una serie de preguntas para aprender a conocerlos mejor, sentar espectativas en nuestra relación y empezar a generar confianza.
 
 ## Retroalimentación y objetivos
 - ¿Cuál medio prefieres para recibir retroalimentación?
